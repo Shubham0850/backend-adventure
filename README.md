@@ -38,7 +38,7 @@ A step by step series of examples that tell you how to get a development environ
 
 1. Clone the repo:
    ```
-   git clone [[URL of the Git repo]](https://github.com/Shubham0850/backend-adventure)
+   git clone https://github.com/Shubham0850/backend-adventure
    ```
 2. Navigate to the project directory:
    ```
